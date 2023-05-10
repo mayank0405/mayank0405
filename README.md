@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="animated/light_1.gif" height="20px" />
 
 <!--
 **mayank0405/mayank0405** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
