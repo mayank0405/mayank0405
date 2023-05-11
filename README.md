@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align = "center"> Hi there 👋<\h1>
 # 💫 About Me:
 I am a B.Tech CSE graduate of 2022. I am transitioning into data science field and am looking for opportunities in the respective domain. I am skilled in Python, MySQL. I am cuurently learning about data vizualization tools and excel.
 
