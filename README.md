@@ -13,6 +13,9 @@ I am a B.Tech CSE graduate of 2022. I am transitioning into data science field a
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" width="100" height="30" alt="Pandas">
 <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width="100" height="30" alt="Seaborn">
 <img src="https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white" width="100" height="30" alt="Jupyter Notebook">
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+[![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
+[![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
 
 
 # 📊 GitHub Stats:
