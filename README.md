@@ -16,6 +16,9 @@ I am a B.Tech CSE graduate of 2022. I am transitioning into data science field a
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 [![macOS](https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0)](#)
 [![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)](#)
+<img src="https://img.shields.io/badge/Neural%20Networks-%2300BFFF.svg?style=for-the-badge&logo=google&logoColor=white" width="150" height="30" alt="Neural Networks">
+<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" width="120" height="30" alt="TensorFlow">
+<img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=keras&logoColor=white" width="100" height="30" alt="Keras">
 
 
 # 📊 GitHub Stats:
